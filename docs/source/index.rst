@@ -10,9 +10,10 @@ Welcome to Hyperbox's documentation!
    :maxdepth: 3
    :glob:
 
+   安装 <install>
    快速开始 <quick_start>
-   框架结构 <structure>
    可搜索模块 <mutable>
+   神经网络架构搜索算法 <structure>
    关于我们 <about>
    
 
